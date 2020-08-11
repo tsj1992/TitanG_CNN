@@ -1,0 +1,8 @@
+1-FOLD | Loss=1.6876,	Accuracy=0.5863000154495239,	Average_Accuracy=0.5863
+2-FOLD | Loss=1.6021,	Accuracy=0.5842000246047974,	Average_Accuracy=0.5853
+3-FOLD | Loss=1.5792,	Accuracy=0.5684000253677368,	Average_Accuracy=0.5796
+4-FOLD | Loss=1.6877,	Accuracy=0.5662999749183655,	Average_Accuracy=0.5763
+5-FOLD | Loss=1.5783,	Accuracy=0.5810999870300293,	Average_Accuracy=0.5773
+
+Average Accuracy : 0.5773
+Execution Time	 : 1614.9531s
